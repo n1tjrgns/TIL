@@ -403,7 +403,7 @@ fetch 조인으로 최적화가 필요하다
     },
 ```
 
-![image-20200503145949592](./image/image-20200503145949592.png)
+![image-20200503145949592](../image/image-20200503145949592.png)
 
 
 
@@ -768,7 +768,7 @@ WARN 16856 --- [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spri
 
 #### OSIV옵션 ON 일 때
 
-![image-20200506185204055](./image/image-20200506185204055.png)
+![image-20200506185204055](../image/image-20200506185204055.png)
 
 
 
@@ -800,7 +800,7 @@ WARN 16856 --- [  restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spri
 
 #### OSIV 옵션 OFF 일 때
 
-![image-20200506191441936](./image/image-20200506191441936.png)
+![image-20200506191441936](../image/image-20200506191441936.png)
 
 `spring.jpa.open-in-view : false `
 
